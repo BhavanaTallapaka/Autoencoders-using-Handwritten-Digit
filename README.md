@@ -89,6 +89,20 @@ The project visualizes three outputs:
 
 The reconstructed images closely resemble the original handwritten digits, demonstrating effective dimensionality reduction.
 
+## Sample Visualization
+
+### Actual Data
+
+<img width="575" height="213" alt="image" src="https://github.com/user-attachments/assets/9ede1266-7013-4e42-ac73-938cffc734bf" />
+
+### Encoded Data
+
+<img width="575" height="213" alt="image" src="https://github.com/user-attachments/assets/8b87bf51-b1ed-41b6-b852-046c40c1843c" />
+
+### Decoded Data
+
+<img width="575" height="213" alt="image" src="https://github.com/user-attachments/assets/5eb2ae92-bdb0-4e06-bcb5-470940c82935" />
+
 ## Project Workflow
 
 1. Import libraries
