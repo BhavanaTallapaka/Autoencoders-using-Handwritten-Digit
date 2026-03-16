@@ -46,13 +46,18 @@ Compresses the input image into a lower dimensional representation.
 Reconstructs the image from compressed features.
 
 Input Layer (784 neurons)
+
 ↓
+
 Dense Layer (256 neurons, ReLU)
 ↓
+
 Bottleneck Layer (100 neurons, ReLU)
 ↓
+
 Dense Layer (256 neurons, ReLU)
 ↓
+
 Output Layer (784 neurons, Sigmoid)
 
 ## Data Preprocessing
