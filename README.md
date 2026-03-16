@@ -98,8 +98,11 @@ The reconstructed images closely resemble the original handwritten digits, demon
 ## How to Run the Project
 
 Clone the repository: git clone https://github.com/BhavanaTallapaka/Autoencoders-using-Handwritten-Digit.git
+
 Install dependencies: pip install numpy pandas matplotlib seaborn tensorflow keras
+
 Run the notebook: jupyter notebook
+
 Open the notebook and execute the cells.
 
 ## Future Improvements
